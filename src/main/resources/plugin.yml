@@ -1,0 +1,6 @@
+name: DyoAPI
+version: ${project.version}
+main: br.com.mdyonisio.dyoapi.DyoAPI
+authors: [Dyonisio]
+description: A library for my plugins.
+website: mdyonisio.com.br
